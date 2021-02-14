@@ -7,4 +7,12 @@
     - https://programmers.co.kr/learn/courses/57/lessons/13777
   - 연결 리스트 순회 구현하기
     - https://programmers.co.kr/learn/courses/57/lessons/13779
-
+  - 연결 리스트 삭제
+    - https://programmers.co.kr/learn/courses/57/lessons/13780
+  - 연결 리스트 삭제(2)
+    - https://programmers.co.kr/learn/courses/57/lessons/13781
+  - 양방향 연결 리스트(concat)
+    - https://programmers.co.kr/learn/courses/57/lessons/1378
+  - 스택
+    - https://programmers.co.kr/learn/courses/57/lessons/13786
+    - 괄호 해결
